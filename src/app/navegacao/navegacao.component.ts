@@ -24,7 +24,7 @@ export class NavegacaoComponent {
   //Controle das rotas do menu
   itensMenu = [
     {linkMenu:'/cdd', labelMenu:'Classes Dewey', hab: true},
-    {linkMenu:'/feed', labelMenu:'Feed de Notícias', hab: false},
+    {linkMenu:'/feed', labelMenu:'Feed de Notícias', hab: true},
     {linkMenu:'/clube', labelMenu:'Páginas de Usuário', hab: false},
     {linkMenu:'/leitura', labelMenu:'Clubes de Leitura', hab: false},
     {linkMenu:'/estante', labelMenu:'Estante Particular', hab: false},
