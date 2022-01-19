@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "bookshelf-c72d1": {
+      "hosting": {
+        "bookshelf_v1_aluno": [
+          "bookshelf-c72d1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "bookshelf-c72d1"
+  }
+}
