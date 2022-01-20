@@ -25,12 +25,16 @@
 .col:last-child {
   margin-right: 0;
 }
-
 .example-card {
-  max-width: 400px;
+  max-width: 640px;
 }
-
 .example-header-image {
-  background-image: url("../../assets/imagens/ShelfBook.png");
+  background-image: url('../../assets/imagens/ShelfBook.png');
   background-size: cover;
+}
+mat-card-footer{
+  button{
+    margin: 0.3rem;
+  }
+  margin: auto;
 }
